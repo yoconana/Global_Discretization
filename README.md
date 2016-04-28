@@ -1,5 +1,12 @@
 EECS837 Final Project
 
+Description
+==============
+
+Given input data file in LERS format, this project uses Java on Linux System to simulate three different kinds of global discretization algorithms in data mining: global discretization based on equal interval width, equal frequency and conditional entropy(Information Gain).
+
+Instruction
+==============
 1.This project is written in Java.
 
 2.Here are steps of building and running this project.
