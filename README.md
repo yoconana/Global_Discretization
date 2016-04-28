@@ -8,7 +8,7 @@ Given input data file in LERS format, this project uses Java on Linux System to 
 Instruction
 ==============
 1.This project is written in Java.
-
+---------------
 2.Here are steps of building and running this project.
    1)Open the Terminal on EECS linux platform,and go to the folder which contains all source codes(xxx.java) and the Makefile.
    2)Type in "make" to make the program. 
@@ -16,7 +16,7 @@ Instruction
    *4)Make sure those files are of "xxx.d/.txt/.lers" format, or it will not be accepted by the project(for exmaple,"xxx.abc" will not be accepted).
    5)Type in "make run" to run the program.
    6)After program completes running, you can find result files in the "results" folder.
-
+----------------
 3.Here is a example of making and running the project.
 
 [source code path]$ make
