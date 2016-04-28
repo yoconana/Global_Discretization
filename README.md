@@ -1,6 +1,4 @@
 EECS837 Final Project
-Tian,Yang
-KUID# 2809119
 
 1.This project is written in Java.
 
@@ -13,7 +11,7 @@ KUID# 2809119
 	6)After program completes running, you can find result files in the "results" folder.
 
 3.Here is a example of making and running the project.
-=====================================================================
+
 [source code path]$ make
 
 javac ./Utils.java -d .
@@ -47,4 +45,3 @@ Start Merging...
 End Merging! Start to write results to files...
 End Writing.
 [source code path]$ 
-=====================================================================
